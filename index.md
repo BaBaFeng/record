@@ -1,9 +1,9 @@
 ### 黄龙溪
 
 ```Python
-Done: 计划中
-Date: 2017-03-25 10:30:00
-Gourps: 1+
+Done: 已完成
+Date: 2017-03-25
+Gourps: 3s
 Mileage: 60+ km/公里
-Duration: 4+ h/小时
+Duration: 5 h/小时
 ```
